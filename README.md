@@ -4,7 +4,6 @@
 
 ## 🌟 Features
 
-- 🧠 Chatbot trained on Bhagavad Gita teachings
 - ✨ Meaningful, contextual answers to your life/spiritual questions
 - 📜 Personalized responses inspired by Krishna's wisdom
 - 🔄 Continuous learning (future improvement scope)
